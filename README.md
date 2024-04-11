@@ -21,18 +21,7 @@ Besides it offers a seamless barcode scanner integration along with POS payment 
   
 <a href="https://magefan.com/magento-pos-system/pricing">
           <img
-            src="https://cm.magefan.com/wysiwyg/products/magento-pos-system-pricing.png"
-            alt="Editions and Pricing for Magento 2 POS" />
-        </a>
-<a href="https://magefan.com/magento-pos-system/pricing">
-          <img
-            src="https://cm.magefan.com/wysiwyg/products/magento-2-pos-system.png"
-            alt="Editions and Pricing for Magento 2 POS
-" />
-        </a>
-<a href="https://magefan.com/magento-pos-system/pricing">
-          <img
-            src="https://cm.magefan.com/wysiwyg/products/magento-pos-system-price.png"
+            src="https://cm.magefan.com/wysiwyg/products/magento-2-pos-pricing.png"
             alt="Editions and Pricing for Magento 2 POS" />
         </a>
         
@@ -44,7 +33,7 @@ Besides it offers a seamless barcode scanner integration along with POS payment 
 
 ## Features
 
-* **Track Data in Real Time**
+### Track Data in Real Time
 
 When managing a brick-and-mortar store, it’s important to keep all data neatly organized: orders, invoices, refunds and more. Since Magento already offers this for online stores, why not leverage its best features in your points of sale?
 
@@ -52,7 +41,7 @@ This Magento 2 POS system enables you to get the best Magento features and use t
 
 No complex integrations or third-party add-ons 一 only centralized POS management. 
 
-* **Use Different Payment Methods**
+### Use Different Payment Methods
   
 The variety of payment methods you offer influences customers' experience. But you don’t have to worry about that with the Magefan POS System. It allows you to accept cash, credit card and Stripe payments. 
 
@@ -60,7 +49,7 @@ The variety of payment methods you offer influences customers' experience. But y
   <img width="853" height="425" src="https://cm.magefan.com/catalog/point-of-sale-payment-methods_1.png">
 </p>
 
-* **Hold Shopping Carts**
+### Hold Shopping Carts
 
 You don’t have to force customers to wait in line or scan each customer's products from scratch each time they forget something and rush back to the store to search for it. This Magento 2 POS system allows you to hold shopping carts and get back to them when a customer is ready to purchase again. 
 
@@ -70,13 +59,13 @@ This reduces the stress on the cashiers and helps them to handle carts more effe
   <img width="853" height="425" src="https://cm.magefan.com/catalog/hold-cart-magento-pos.png">
 </p>
 
-* **Apply Discounts**
+### Apply Discounts
 
 As we’ve told you before, multiple Magento features work in your POS as well, including discounts. The cart and catalogue price rules you create in the Magento backend work in your POS. 
 
 Besides, cashiers can apply coupon codes. This improves sales management and offers a personalized shopping experience.
 
-* **Edit Product Price in Cart**
+### Edit Product Price in Cart
 
 Magento allows you to set custom price prices when you create orders from the admin panel.  Why shouldn’t you be able to do the same in POS? But you can with the POS system for Magento from Magefan. 
 
@@ -86,13 +75,13 @@ You can simply click on the product price in the cart and change it before proce
   <img width="853" height="425" src="https://cm.magefan.com/catalog/add-custom-price-magento-pos.png">
 </p>
 
-* **Add Custom Products (Custom Sale)**
+### Add Custom Products (Custom Sale)
 
 Sometimes your cashier is not able to find a product in the POS system. The product simply hasn’t been added yet, it’s price has changed or there could be any other reason for that. In any case, you won’t have to lose a sale. 
 
 This Magento 2 POS system allows you to create a custom product or custom sale. Specify the title, price and quantity of the product you want to sell.
 
-* **Enable Self-Checkout Terminal**
+### Enable Self-Checkout Terminal
 
 If you want to allow your customers to checkout on their own you need a self-service terminal. With this POS system for Magento, you can enable it with no complex integrations. Just enable one option in the admin panel and configure the “I’m still here timer”. 
 
@@ -100,7 +89,7 @@ If you want to allow your customers to checkout on their own you need a self-ser
   <img width="853" height="425" src="https://cm.magefan.com/catalog/self-checkout-terminal-magento-pos.png">
 </p>
 
-* **Create New Customers in POS**
+### Create New Customers in POS
 
 In this Magento 2 POS system, you can check out people as guests or customers if they already have an account in your online store. You use any product attribute to find customers. However, that’s not it. 
 
@@ -110,7 +99,7 @@ You can also create new customers using a handy POS feature. Create customers us
   <img width="853" height="425" src="https://cm.magefan.com/catalog/create-customer-in-pos.png">
 </p>
 
-* **Manage Orders, Invoices and Refunds**
+### Manage Orders, Invoices and Refunds
 
 To streamline the process for your sales manager and simplify the Magento management we’ve also added the Sales panel differently to the POS frontend. It allows you to view orders, invoices and credit memos without leaving your POS system. 
 
@@ -120,7 +109,7 @@ Besides, you can create invoices and refunds directly from POS. Isn’t it what 
   <img width="853" height="425" src="https://cm.magefan.com/catalog/view-order-information-invoices-shipment-pos-frontend-magento.png">
 </p>
 
-* **Manage Products in Multiple Warehouses**
+### Manage Products in Multiple Warehouses
 
 Do you have multiple stores and warehouses? No problem, you can easily monitor products between multiple warehouses. You will see the quantity in each warehouse when choosing product options. 
 
@@ -177,7 +166,7 @@ Try out our open demo and if you like our extension **please give us some star o
 ## Support
 If you have any issues, please [contact us](mailto:support@magefan.com)
 then if you still need help, open a bug report in GitHub's
-[issue tracker](https://github.com/magefan/module-google-tag-manager/issues).
+[issue tracker](https://github.com/magefan/magento-2-pos-system/issues).
 
 ## Need More Features?
 Please contact us to get a quote
