@@ -1,4 +1,4 @@
-# [Magento 2 POS System](https://magefan.com/magento-pos-system) by Magefan
+# [Magento 2 POS System](https://magefan.com/magento-pos-system) by Magefan | Magento Point of Sale
 
 <a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
 
