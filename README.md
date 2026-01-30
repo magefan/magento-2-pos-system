@@ -147,12 +147,12 @@ Try out our open demo and if you like our extension **please give us some star o
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://pos.demo.magefan.top/pos/">
+        <a href="https://pos3.demo.magefan.top/admin/mfpos/terminalpicker/index/">
           view
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://pos.demo.magefan.top/admin/admin/system_config/edit/section/pos/">
+        <a href="https://pos3.demo.magefan.top/admin/admin/system_config/edit/section/mfpos/">
           view
         </a>
       </td>
